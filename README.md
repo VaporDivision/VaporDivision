@@ -23,7 +23,7 @@ We believe that keeping your personal devices clean and optimized shouldn't requ
 
 | Project | Type | Description | Link |
 | :--- | :--- | :--- | :--- |
-| **MediaCleaner** | Utility | Zero-server media cleaner featuring a Tinder-style swipe interface. | [View Repo](https://github.com/VaporDivision/media-cleaner) |
+| **MediaCleaner** | Utility | Zero-server media cleaner featuring a Tinder-style swipe interface. | [View Repo](https://github.com/VaporDivision/MediaCleaner) |
 
 ---
 
