@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ Vapor Division</h1>
+  <h1>Vapor Division</h1>
   <p><strong>An independent open-source studio crafting privacy-first, client-side digital utilities.</strong></p>
   
   <p>
@@ -23,7 +23,7 @@ We believe that keeping your personal devices clean and optimized shouldn't requ
 
 | Project | Type | Description | Link |
 | :--- | :--- | :--- | :--- |
-| **MediaCleaner** | Utility | Zero-server media cleaner featuring a Tinder-style swipe interface and local AI heuristics. | [View Repo](https://github.com/VaporDivision/media-cleaner) |
+| **MediaCleaner** | Utility | Zero-server media cleaner featuring a Tinder-style swipe interface. | [View Repo](https://github.com/VaporDivision/media-cleaner) |
 
 ---
 
@@ -41,5 +41,4 @@ We believe that keeping your personal devices clean and optimized shouldn't requ
 - **Contact:** `vapordivision@proton.me`
 
 <div align="center">
-  <p><i>"Your device, your rules."</i></p>
 </div>
