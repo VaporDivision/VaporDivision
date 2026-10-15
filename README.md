@@ -11,7 +11,7 @@
 
 ---
 
-## 👁️ Who We Are
+##  Who We Are
 
 **Vapor Division** is an independent open-source collective dedicated to building lightning-fast digital utilities. We operate on a strict philosophy: local-first execution, absolute data privacy, and zero reliance on corporate cloud servers. 
 
@@ -19,7 +19,7 @@ We believe that keeping your personal devices clean and optimized shouldn't requ
 
 ---
 
-## 🛠️ Our Projects
+##  Our Projects
 
 | Project | Type | Description | Link |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ We believe that keeping your personal devices clean and optimized shouldn't requ
 
 ---
 
-## 🔒 Our Core Principles
+##  Our Core Principles
 
 - **Zero-Server Architecture:** All computations run 100% locally inside your browser using modern Web APIs and Web Workers.
 - **Absolute Privacy:** Your files, photos, and personal data never leave your device.
@@ -35,7 +35,7 @@ We believe that keeping your personal devices clean and optimized shouldn't requ
 
 ---
 
-## 📬 Connect With Us
+##  Connect With Us
 
 - **GitHub:** [@VaporDivision](https://github.com/VaporDivision)
 - **Contact:** `vapordivision@proton.me`
